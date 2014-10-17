@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvt:home|Door43 (mvt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvt|d43-mvt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvt/archive/master.zip|d43-mvt.zip]]
+
+**Recent Changes**
+{{changes>ns = mvt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvt|Ethnologue data]]
+
